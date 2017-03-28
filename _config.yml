@@ -1,0 +1,21 @@
+# Site settings
+title: Jenn Sung Develops
+header-img: img/home-bg.png
+email: jennifer.sung@colorado.edu
+copyright_name: radley-boo
+description: > # this means to ignore newlines until "baseurl:"
+  Launch pad for Jenn Sung's career in development
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  radley-boo
+learn_profile: radley-boo
+email_username: jennifer.sung@colorado.edu
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
