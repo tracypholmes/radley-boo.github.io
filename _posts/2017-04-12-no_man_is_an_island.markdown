@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " **No Man is an Island...**"
+title:  " No Man is an Island..."
 date:   2017-04-12 00:02:20 -0400
 ---
 
